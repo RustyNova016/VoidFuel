@@ -1,0 +1,11 @@
+{
+  "name": "VoidFuel",
+  "version": "1.0.3",
+  "factorio_version": "0.17",
+  "title": "VoidFuel",
+  "author": "RustyNova016",
+  "contact": "https://github.com/RustyNova016/VoidFuel",
+  "homepage": "",
+  "description": "This mod adds void infused fuel for insane speeds!",
+  "dependencies": ["base"]
+}
